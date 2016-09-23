@@ -1,0 +1,32 @@
+Starting MAKE...
+creating project.mk 
+lib/e2prom.asm
+lib/led1.asm
+lib/led2.asm
+lib/led3.asm
+lib/led4.asm
+lib/led5.asm
+lib/led6.asm
+lib/psocconfig.asm
+lib/psocconfigtbl.asm
+lib/timer8.asm
+lib/timer8int.asm
+lib/uart.asm
+lib/uartint.asm
+lib/uartplus.asm
+./boot.asm
+./dmk.c
+./fifo.c
+./incline.c
+./machine_table.c
+./main.c
+./myuart.c
+./nonvolatile.c
+./timer8_isr.c
+Linking..
+  ROM 49% full. 7950 out of 16384 bytes used (does not include absolute areas).
+  RAM 59% full. 149 bytes used (does not include stack usage).
+Built with ICCM8C STD V7.04
+ 
+Olympus - 0 error(s) 0 warning(s) 11:47:30
+

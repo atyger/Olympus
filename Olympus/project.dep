@@ -1,0 +1,122 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8ssc.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\lib\GLOBAL~1.INC\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./obj/dmk.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h ./lib/LED3.h\
+   ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h ./lib/PSoCAPI.h\
+   ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\dmk.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H
+./obj/fifo.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h ./lib/LED3.h\
+   ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h ./lib/PSoCAPI.h\
+   ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\fifo.h
+./obj/incline.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h\
+   ./lib/LED3.h ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h\
+   ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\dmk.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\fifo.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\MACHIN~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\main.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\myuart.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\TIMER8~1.H
+./obj/machine_table.o :  H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\MACHIN~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H
+./obj/main.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h ./lib/LED3.h\
+   ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h ./lib/PSoCAPI.h\
+   ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\Main.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\TIMER8~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\dmk.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\fifo.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\MACHIN~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\myuart.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H
+./obj/myuart.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h\
+   ./lib/LED3.h ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h\
+   ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\TIMER8~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\fifo.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\main.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\myuart.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H
+./obj/nonvolatile.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h\
+   ./lib/LED3.h ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h\
+   ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\Main.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\MACHIN~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H
+./obj/timer8_isr.o :  ./lib/E2PROM.h ./lib/LED1.h ./lib/LED2.h\
+   ./lib/LED3.h ./lib/LED4.h ./lib/LED5.h ./lib/LED6.h\
+   ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/Timer8.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\CONSTA~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\dmk.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\fifo.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\incline.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\MACHIN~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\main.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\myuart.h\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\NONVOL~1.H\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\TIMER8~1.H
+./lib/obj/e2prom.o :  ./lib/E2PROM.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/E2PROM~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led1.o :  ./lib/LED1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led2.o :  ./lib/LED2.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led3.o :  ./lib/LED3.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led4.o :  ./lib/LED4.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led5.o :  ./lib/LED5.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/led6.o :  ./lib/LED6.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc
+./lib/obj/timer8.o :  ./lib/Timer8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/timer8int.o :  ./lib/Timer8.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/uart.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/uartint.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.1/Common/CYPRES~3/tools/include/CY8C27~1/m8c.inc\
+   H:\OLYMPU~1\CODE\UQ7W200~\OLYMPU~1\OLYMPU~1\memory.inc
+./lib/obj/uartplus.o : 
